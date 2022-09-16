@@ -1,17 +1,7 @@
-#RESTful APIs with JAX-RS
+Test RESTful APIs with JAX-RS (Jersey)
 
 
 Done with eclipse 
 
 Used tomcat v8.5 
-
-Check Documentation for Handling Exceptions
-
-Did not check the HATEAOS part + Content Negociation
-
-Note:
-
-WebApplication Exception = jax-rs exception => no need to map the exceptions, jax-rs already knows 
-
-Also check its children exception 
 
